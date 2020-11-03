@@ -1,3 +1,6 @@
 [submodule "\\Users\\LENOVO-PC\\Desktop\\MasiyaGit\\gitDemoFile"]
 	path = \\Users\\LENOVO-PC\\Desktop\\MasiyaGit\\gitDemoFile
 	url = C:\\Users\\LENOVO-PC\\Desktop\\MasiyaGit\\gitDemoFile
+[submodule "gitDemoFile2"]
+	path = gitDemoFile2
+	url = https://github.com/shanselman/learninggit.git
