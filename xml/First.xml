@@ -1,1 +1,10 @@
-first
+<?xml version="1.0" encoding="UTF-8"?>
+<family> 
+<father age="56"> Sipho Dlamini </father>
+<mother age="48"> Lungile Mdlalose </mother>
+<firstSon age="27"> Siyabonga
+    <grandson age="2"> Kendrick </grandson><!--subchid element-->
+</firstSon>
+<secondSon age="12"> Lethokuhle </secondSon> <!--chidren element-->
+<daughter age="17"> Amahle </daughter>
+</family>
